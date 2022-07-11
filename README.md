@@ -3,11 +3,11 @@
 
 
 ## 🚀 About Me
-I'm a full stack developer...
+I'm a Front-end developer...
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS...
+Javascript, HTML, CSS, React.js ,node.js
 
 
 ## 🔗 Links
